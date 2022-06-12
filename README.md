@@ -69,7 +69,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Accuracy:
 ![Output](https://github.com/naramala-niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5g.png?raw=true)
 ## Data Prediction:
-![Output](https://github.com/naramala-niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5a.png?raw=true)
+![Output](https://github.com/naramala-niharika/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5h.png?raw=true)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
